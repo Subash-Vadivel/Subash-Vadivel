@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vsubashvsubash" target="blank"><img src="https://img.shields.io/twitter/follow/vsubashvsubash?logo=twitter&style=for-the-badge" alt="vsubashvsubash" /></a> </p>
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Node JS**
 
 - 👨‍💻 All of my projects are available at [http://personal-portfolio-v.herokuapp.com](http://personal-portfolio-v.herokuapp.com)
 
