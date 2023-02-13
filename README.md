@@ -36,3 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subash-vadivel&show_icons=true&locale=en" alt="subash-vadivel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subash-vadivel&" alt="subash-vadivel" /></p>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/vsubashvsubash)](https://leetcode.com/vsubashvsubash)
