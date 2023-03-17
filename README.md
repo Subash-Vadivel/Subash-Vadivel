@@ -1,3 +1,8 @@
+ <img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif" />
+<br>
+<br>
+
+
 # 💫 About Me:
 🌱 I’m currently learning Node JS<br><br>👨‍💻 All of my projects are available at http://rido.live<br><br>💬 Ask me about React<br><br>📫 How to reach me vsubashvsubash@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1lY7T6N30QsU2GicBIbGfIokIqmAVHOIb/view?usp=share_link
 
