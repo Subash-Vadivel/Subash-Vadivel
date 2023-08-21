@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning Node JS<br><br>👨‍💻 All of my projects are available at http://subash.rido.live<br><br>💬 Ask me about React<br><br>📫 How to reach me vsubashvsubash@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1lY7T6N30QsU2GicBIbGfIokIqmAVHOIb/view?usp=share_link
+🌱 I’m currently learning Node JS<br><br>👨‍💻 All of my projects are available at http://subash.rido.live<br><br>💬 Ask me about React<br><br>📫 How to reach me vsubashvsubash@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1ScLNMDyx0h2MfnRGyI4KOHTJgWzEdhOx/view?usp=share_link
 
 
 ## 🌐 Socials:
